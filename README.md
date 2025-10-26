@@ -1,1 +1,1 @@
-# mi3490_responsive_blog
+# mi349_blog_css
